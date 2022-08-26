@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=U-WangE&theme=moltack)](https://github.com/U-WangE/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=U-WangE&theme=moltack)]
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **U-WangE/U-WangE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

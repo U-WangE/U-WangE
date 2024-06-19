@@ -1,5 +1,7 @@
 ## Changyoung Park 👋
-@kotlin
+
+<img src="https://img.shields.io/badge/kotlin-7f52ff.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=U-WangE&theme=moltack)](https://gist.github.com/U-WangE)
 

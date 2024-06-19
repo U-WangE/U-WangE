@@ -18,9 +18,9 @@
 </p>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=U-WangE&theme=dracula)](https://gist.github.com/U-WangE)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=U-WangE&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=U-WangE&layout=compact)](https://gist.github.com/U-WangE)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=U-WangE&layout=compact)
 
 <!--
 **U-WangE/U-WangE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

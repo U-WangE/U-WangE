@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white">
 </a>
 
-<a href="https://open.kakao.com/o/spilDXEb">
+<a href="https://open.kakao.com/o/spiIDXEb">
     <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat&logoColor=black&logo=KakaoTalk"> 
 </a>
 

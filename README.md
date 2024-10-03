@@ -2,14 +2,14 @@
 
 ## <p align="center">연락처</p>
 
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto:chamchann@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"> 
-    </a>
-    <a href="">
-        <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat&logoColor=black&logo=KakaoTalk"> 
-    </a>
-</div>
+<a href="mailto:chamchann@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white">
+</a>
+
+<a href="https://open.kakao.com/o/spilDXEb">
+    <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat&logoColor=black&logo=KakaoTalk"> 
+</a>
+
 
 ### <p align="center">Tool</p>
 

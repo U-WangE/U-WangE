@@ -11,7 +11,7 @@
 
 Hello, I'm ChanYoung Park, an Android developer.<br>
 Thank you for visiting my GitHub.<br>
-As a developer who strives to create $\oldstyle{{\color{#FFA41A}familiar}}$ and $\oldstyle{{\color{#FFA41A}comfortable user experiences}}$,<br>
+As a developer who strives to create $\oldstyle{{\color{#FFA41A}familiar}}$ and $\oldstyle{{\color{#FFA41A}comfortable\ user\ experiences}}$,<br>
 I enjoy experimenting with various development techniques and technologies.<br>
 I hope that my GitHub can inspire you and provide you with valuable insights and resources.<br>
 <br>

@@ -9,7 +9,8 @@
     </a>
 </p>
 
-Hello, I'm ChanYoung Park, an Android developer.<br>
+<p>
+Hello, I'm <strong>ChanYoung Park</strong>, an <strong>Android developer</strong>.<br>
 Thank you for visiting my GitHub.<br>
 As a developer who strives to create $\oldstyle{{\color{#FFA41A}familiar}}$ and $\oldstyle{{\color{#FFA41A}comfortable\ user\ experiences}}$,<br>
 I enjoy experimenting with various development techniques and technologies.<br>
@@ -17,6 +18,7 @@ I hope that my GitHub can inspire you and provide you with valuable insights and
 <br>
 If you have any questions or need help with any of my projects, please don't hesitate to reach out.<br>
 Thank you for your interest in my work, and I look forward to collaborating with you in the future.<br>
+</p>
 
 # 
 

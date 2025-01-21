@@ -38,6 +38,14 @@ Thank you for your interest in my work, and I look forward to collaborating with
     <img src="https://img.shields.io/badge/GitBook-BBDDE5.svg?style=flat&logo=GitBook&logoColor=black">
     &nbsp;
     <img src="https://img.shields.io/badge/Firebase-DD2C00.svg?style=flat&logo=Firebase&logoColor=white">
+    &nbsp;
+    <img src="https://img.shields.io/badge/Redmine-B32024.svg?style=flat&logo=Redmine&logoColor=white">
+    &nbsp;
+    <img src="https://img.shields.io/badge/Slack-4A154B.svg?style=flat&logo=Slack&logoColor=white">
+    &nbsp;
+    <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=Postman&logoColor=white">
+    &nbsp;
+    <img src="https://img.shields.io/badge/Notion-000000.svg?style=flat&logo=Notion&logoColor=white">
 </p>
 
 ### Tech

@@ -40,7 +40,47 @@ Thank you for your interest in my work, and I look forward to collaborating with
     <img src="https://img.shields.io/badge/Firebase-DD2C00.svg?style=flat&logo=Firebase&logoColor=white">
 </p>
 
-
+### Tech
+ <p>
+    <img src="https://img.shields.io/badge/Coroutine-3C3C3B">
+    &nbsp;
+    <img src="https://img.shields.io/badge/Hilt-3C3C3B">
+    &nbsp;
+    <img src="https://img.shields.io/badge/MVVM-3C3C3B">
+    &nbsp;
+    <img src="https://img.shields.io/badge/Usb%20Serial%20Communication-3C3C3B">
+    &nbsp;
+    <img src="https://img.shields.io/badge/AIDL%20Service%20(Multi App Connect)-3C3C3B">
+    <br>
+    <img src="https://img.shields.io/badge/SDK-3C3C3B">
+    &nbsp;
+    <img src="https://img.shields.io/badge/Socket.io-3C3C3B">
+    &nbsp;
+    <img src="https://img.shields.io/badge/WebSocket-3C3C3B">
+    &nbsp;
+    <img src="https://img.shields.io/badge/FCM-3C3C3B">
+    &nbsp;
+    <img src="https://img.shields.io/badge/NFC%20-3C3C3B">
+    &nbsp;
+    <img src="https://img.shields.io/badge/Web%20View-3C3C3B">
+    &nbsp;
+    <img src="https://img.shields.io/badge/BLE%20Scan-3C3C3B">
+    &nbsp;
+    <img src="https://img.shields.io/badge/BLE%20Advertise-3C3C3B">
+    <br>
+    <img src="https://img.shields.io/badge/Location-3C3C3B">
+    &nbsp;
+    <img src="https://img.shields.io/badge/Google%20Map-3C3C3B">
+    &nbsp;
+    <img src="https://img.shields.io/badge/Naver%20Map-3C3C3B">
+    &nbsp;
+    <img src="https://img.shields.io/badge/Acceleration%20Sensor-3C3C3B">
+    &nbsp;
+    <img src="https://img.shields.io/badge/Gyro%20Sensor-3C3C3B">
+    &nbsp;
+    <img src="https://img.shields.io/badge/Google%20Sleep%20Api-3C3C3B">
+ </p>
+ 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=U-WangE&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=U-WangE&layout=compact)

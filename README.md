@@ -66,7 +66,7 @@ Thank you for your interest in my work, and I look forward to collaborating with
     &nbsp;
     <img src="https://img.shields.io/badge/MVVM-3C3C3B">
     &nbsp;
-    <img src="https://img.shields.io/badge/Usb%20Serial%20Communication-3C3C3B">
+    <img src="https://img.shields.io/badge/USB%20Serial%20Communication-3C3C3B">
     &nbsp;
     <img src="https://img.shields.io/badge/AIDL%20Service%20(Multi App Connect)-3C3C3B">
     <br>

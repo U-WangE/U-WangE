@@ -12,17 +12,17 @@
 <p>
 Hello, I'm <strong>ChanYoung Park</strong>, an <strong>Android developer</strong>.<br>
 Thank you for visiting my GitHub.<br>
-As a developer who strives to create $\oldstyle{{\color{#FFA41A}familiar}}$ and $\oldstyle{{\color{#FFA41A}comfortable\ user\ experiences}}$,<br>
+As a developer who strives to create ☕<strong>familiar</strong> and 🛋️<strong>comfortable user experiences</strong>,<br>
 I enjoy experimenting with various development techniques and technologies.<br>
 I hope that my GitHub can inspire you and provide you with valuable insights and resources.<br>
 <br>
 If you have any questions or need help with any of my projects, please don't hesitate to reach out.<br>
 Thank you for your interest in my work, and I look forward to collaborating with you in the future.<br>
 </p>
-<details><summary>$\oldstyle{{\color{#FFA41A}Translation}}$</summary>
+<details><summary><strong>Translation</strong></summary>
 안녕하세요, 안드로이드 개발자 <strong>박찬영</strong>입니다.<br>
 제 GitHub를 방문해 주셔서 감사합니다.<br>
-저는 $\oldstyle{{\color{#FFA41A}익숙}}$하고 $\oldstyle{{\color{#FFA41A}편안한\ 사용자\ 경험}}$을 만들기 위해 노력하는 개발자로서,<br>
+저는 ☕<strong>익숙</strong>하고 🛋️<strong>편안한 사용자 경험</strong>을 만들기 위해 노력하는 개발자로서,<br>
 다양한 개발 기법과 기술을 실험하는 것을 즐깁니다.<br>
 제 GitHub가 여러분에게 영감을 주고 귀중한 인사이트와 리소스를 제공할 수 있기를 바랍니다.<br>
 <br>
